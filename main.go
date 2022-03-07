@@ -6,5 +6,6 @@ func main() {
 	// lesson2b()
 	// lesson3a()
 	// lesson4a()
-	lesson5a()
+	// lesson5a()
+	lesson6a()
 }
